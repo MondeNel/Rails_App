@@ -9,7 +9,7 @@ gem "propshaft"
 
 
 # Add: This Gem would allow us to communicate and connect with psgql database
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.7.0"
 
 
 # Use the Puma web server [https://github.com/puma/puma]
